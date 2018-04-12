@@ -1,0 +1,46 @@
+.curve-button{
+
+	border-radius: 45px;
+	background:#EA2D54;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: white;
+}
+
+.header{
+	padding: 20px;
+	border-width: 1px;
+	background: black;
+	border-color: solid black;
+}
+
+.menu li {
+	color: white;
+	display: inline;
+	text-decoration: none;
+	font-family: sans-serif;
+	size: 24px;
+	text-align-last:left;
+	margin-left: 60px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.portfolio{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 60;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+	font-family: sans-serif;
+	font-weight: 10px;
+	font-size: 30px;
+}
+
+
